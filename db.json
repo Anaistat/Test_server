@@ -1,5 +1,5 @@
 {
-  "posts": [
+  "statuses": [
     {
       "status": "success",
       "message": "Form successfully submitted!"
@@ -8,6 +8,5 @@
       "status": "error",
       "message": "Server not responsed!"
     }
-
-  ],
+  ]
 }
