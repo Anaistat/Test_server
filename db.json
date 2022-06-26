@@ -1,11 +1,12 @@
 {
-  "posts": [
+  "statuses": [
     {
-      "id": 1,
-      "title": "hello"
+      "status": "success",
+      "message": "Form successfully submitted!"
+    },
+    {
+      "status": "error",
+      "message": "Server not responsed!"
     }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  ]
 }
